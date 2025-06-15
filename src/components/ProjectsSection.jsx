@@ -40,7 +40,7 @@ export const ProjectsSection = () => {
         <div className="container mx-auto max-w-5xl">
             <h2 className="text-3xl md:text-3xl font-bold mb-4 text-center">
                 Featured<span className="text-primary">Projects
-                </span>
+                </span> 
                 </h2>
 
                 <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto" >
