@@ -20,7 +20,7 @@ export const HeroSection = () => {
                     </p>
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                         <a
-                            href="#projects"
+                            href="#project"
                             className="inline-block px-6 py-2 rounded-full bg-primary text-primary-foreground font-semibold shadow-md hover:bg-primary/80 transition-colors duration-300"
                         >
                             View My Work
