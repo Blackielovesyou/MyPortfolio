@@ -5,21 +5,21 @@ import { Github } from "lucide-react";
 const projects=[
     {
         id: 1,
-        title: "SaaS Landing Page",
-        discription: "A modern SaaS landing page built with React and Tailwind CSS.",
-        image: "/projects/project1.png",
-        tags:["React", "Tailwind CSS", "SaaS"],
+        title: "Caleb's Kitchen",
+        discription: "It is an Android Studio project designed as a food ordering system that allows users to order meals, reserve tables, and request catering services.",
+        image: "/projects/project2.png",
+        tags:["Android Studio", "Java"],
         demoUrl: "#",
-        githubUrl: "#"
+        githubUrl: "https://github.com/Blackielovesyou/Calebs_Name"
 },
     {
         id: 2,
-        title: "SaaS Landing Page",
-        discription: "A modern SaaS landing page built with React and Tailwind CSS.",
-        image: "/projects/project1.png",
-        tags:["React", "Tailwind CSS", "SaaS"],
+        title: "Car Game",
+        discription: "It is a Python game that allows the user to overtake other cars without bumping into them, and as time goes by, the game gets faster and faster.",
+        image: "/projects/project3.png",
+        tags:["Pycharm", "Python", "Pygame"],
         demoUrl: "#",
-        githubUrl: "#"
+        githubUrl: "https://github.com/Blackielovesyou/CarGame"
 },
     {
         id: 3,
